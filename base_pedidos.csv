@@ -1,0 +1,11 @@
+Pedido,Fornecedor,Material,Data_Emissao,Prazo_Acordado,Status_Followup,Ultima_Interacao,Criticidade
+5001,Usinagem Centro-Oeste,Eixos de Moenda,2026-04-01,2026-04-15,Confirmado,Fornecedor confirmou produção,Alta
+5002,Química Global,Ácido Sulfúrico,2026-04-02,2026-04-07,Atrasado,Sem contato do motorista,Crítica
+5003,Rolamentos S.A.,Rolamentos 6205,2026-04-03,2026-04-12,Em Trânsito,NF emitida ontem,Média
+5004,Válvulas Premium,Válvulas Esfera 2",2026-04-04,2026-04-10,Aguardando Aceite,Pedido enviado por e-mail,Alta
+5005,Agro Bio,Bagaço Ensacado,2026-04-05,2026-04-18,Confirmado,Entrega programada para próxima semana,Média
+5006,Bombas Centrifugas BR,Bomba Hidráulica,2026-03-25,2026-04-05,Atrasado,Fornecedor relatou atraso na fundição,Alta
+5007,Filtros Industriais,Filtro Prensa,2026-04-01,2026-04-20,Em Trânsito,Carga saiu da transportadora,Baixa
+5008,Telas Metálicas Ltda,Tela de Peneira Vibratória,2026-04-06,2026-04-15,Aguardando Aceite,E-mail enviado hoje de manhã,Média
+5009,Mecânica Precisão,Engrenagens,2026-03-20,2026-04-02,Atrasado,Quebra de CNC no fornecedor,Crítica
+5010,Eletro Componentes,Inversor de Frequência,2026-04-07,2026-04-25,Confirmado,Enviado cronograma de importação,Alta
