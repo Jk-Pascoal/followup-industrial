@@ -1,6 +1,6 @@
 # 🏭 Sistema de Follow-up Industrial - Biorrefinaria Enterprise
 
-Um dashboard interativo e profissional desenvolvido em Python (Streamlit) para o gerenciamento de follow-up industrial. Focado no planejamento, interação com fornecedores e monitoramento de riscos de ruptura operacional em supply chain.
+Dashboard interativo e profissional desenvolvido em Python (Streamlit) para o gerenciamento de follow-up industrial. Focado no planejamento, interação com fornecedores e monitoramento de riscos de ruptura operacional em supply chain.
 
 ## 🚀 Funcionalidades
 
